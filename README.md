@@ -26,14 +26,14 @@
 - **项目名称**: 修真之旅 JourneytoImmortalCultivation
 - **版本**: 0.1 (updated at 20231018 )
 - **核心驱动**: GPT-4 Dalle.E 3
-- **作者**: 白石
+- **作者**: [白石](https://m.okjike.com/users/0fdd6fe1-44db-45b2-827b-2c3064094af9?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNjQ3ZTdmMjE0YmQ2NjJlODZhMDI0NDJjIn0%3D&utm_source=user_card)
 
 
 ## 📥 运行游戏
 
 1、请打开GPT-4 的 [Dalle.E 3](https://chat.openai.com/?model=gpt-4-dalle)
 
-2、将[JourneytoImmortalCultivation.txt](https://github.com/White-stone36/Situation_puzzles_games/blob/main/SituationPuzzlesGamesPrompt.txt)中的所有内容复制粘贴进对话框中运行。
+2、将[JourneytoImmortalCultivation.txt](https://github.com/White-stone36/JourneytoImmortalCultivation/blob/main/JourneytoImmortalCultivation-prompt.txt)中的所有内容复制粘贴进对话框中运行。
 
 
 
@@ -53,19 +53,10 @@
 
 由于大语言模型的随机性，您的游戏体验可能会由于运气波动。
 
+<img src="./2023-10-18_1.png" alt="Childhood 2" width="500">
+<img src="./2023-10-18_2.png" alt="Childhood 2" width="500">
+<img src="./2023-10-18_3.png" alt="Childhood 2" width="500">
 
-### 初始化
-
-模型随机生成海龟汤谜题，玩家可以发挥自己想象力进行各种可能性的提问。
-<img src="./screenshot1.png" alt="Childhood 2" width="500">
-
-
-### 总结线索
-<img src="./screenshot2.png" alt="Childhood 2" width="500">
-
-### 寻求提示
-
-<img src="./screenshot3.png" alt="Childhood 2" width="500">
 
 
 ## 💌 联系作者
