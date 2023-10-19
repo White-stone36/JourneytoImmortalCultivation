@@ -53,9 +53,9 @@
 
 由于大语言模型的随机性，您的游戏体验可能会由于运气波动。
 
-<img src="./2023-10-18_1.png" alt="Childhood 2" width="500">
-<img src="./2023-10-18_2.png" alt="Childhood 2" width="500">
-<img src="./2023-10-18_3.png" alt="Childhood 2" width="500">
+<img src="./1.png" alt="Childhood 2" width="500">
+<img src="./2.png" alt="Childhood 2" width="500">
+<img src="./3.png" alt="Childhood 2" width="500">
 
 ## ⚠️ 注意事项
   受限于DallE 3在长prompt下出图不稳定的情况，可能会导致用文字替代出图的情况。
