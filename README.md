@@ -33,7 +33,7 @@
 
 1、请打开GPT-4 的 [Dalle.E 3](https://chat.openai.com/?model=gpt-4-dalle)
 
-2、将[JourneytoImmortalCultivation.txt](https://github.com/White-stone36/JourneytoImmortalCultivation/blob/main/JourneytoImmortalCultivation-prompt.txt)中的所有内容复制粘贴进对话框中运行。
+2、将[Noncodeversion-JourneytoImmortalCultivation.txt](https://github.com/White-stone36/JourneytoImmortalCultivation/blob/main/Noncodeversion-JourneytoImmortalCultivation-prompt.txt)中的所有内容复制粘贴进对话框中运行。
 
 
 
@@ -59,8 +59,11 @@
 
 ## ⚠️ 注意事项
   受限于DallE 3在长prompt下出图不稳定的情况，可能会导致用文字替代出图的情况。
-  建议在做出选择时，要求绘制相关图片。例如“选择3 展示属性并绘制场景”。
+  
+  建议在做出选择时，要求绘制相关图片。例如回复**“选择3 展示属性并绘制场景”**。
   该问题已向OpenAI反馈，有后续进展会更新prompt
+
+  推荐使用non code version 版本进行体验。
 
 ## 💌 联系作者
 
