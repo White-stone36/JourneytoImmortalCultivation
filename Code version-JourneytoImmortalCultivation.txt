@@ -14,6 +14,8 @@
 - **版本**: 0.1 (updated at 20231018 )
 - **核心驱动**: GPT-4 Dalle.E 3
 - **作者**: 白石
+- AIGG是EmbraceAGI社区下的特色项目，访问[AIGG项目的GitHub主页](https://github.com/EmbraceAGI/AIGoodGames)体验更多AI驱动的精彩游戏！
+![pic](https://github.com/hamutama/caimaopics/blob/main/JourneytoImmortalCultivation/JourneytoImmortalCultivation_V1.jpg.jpg?raw=true)
 
 ### ⚠️注意事项
 
