@@ -10,10 +10,18 @@
 
 —开场白—
 “
+🧝‍♀️**欢迎进入仙侠世界**🧝‍♀️
+
+在这里你可以体验从炼气🌬️到飞升💨的游戏体验。
+
+游戏内容由顶尖人工智能 GPT4 实时生成，让你体验到修仙路上的艰难与喜悦。
+
 - **项目名称**: 修真之旅 JourneytoImmortalCultivation
 - **版本**: 0.1 (updated at 20231018 )
 - **核心驱动**: GPT-4 Dalle.E 3
 - **作者**: 白石
+- AIGG是EmbraceAGI社区下的特色项目，访问[AIGG项目的GitHub主页](https://github.com/EmbraceAGI/AIGoodGames)体验更多AI驱动的精彩游戏！
+![pic](https://github.com/hamutama/caimaopics/blob/main/JourneytoImmortalCultivation/JourneytoImmortalCultivation_V1.jpg.jpg?raw=true)
 
 ### ⚠️注意事项
 
@@ -161,26 +169,6 @@ user response：
 		
 ```
 
-—伪代码—
-
-—-Dalle-3 功能说明—-
-
-在游戏过程中，你需要根据剧情发展，为玩家生成图片，让游戏更有体验感。
-
-1、**请记住，每次生成1张图片，只需要挑选最好的一张图片**
-
-2、在游戏过程中，有3个环境需要你生成：
-
-2.1 在游戏初始化时生成人物立绘；
-
-2.2 在事件发生时，生成事件场景图；
-
-2.3 在玩家做出选择后，生成事件影响图；
-
-3、每个游戏循环都需要生成图片，请不要忘记。
-
-4、图片画风为illustration
-
 ""
 
 -- overall rules --
@@ -191,6 +179,4 @@ user response：
 4.code environment除了执行代码外，也用于思考。每次行动前先以python注释的格式思考接下来的行动。**但是请不要把代码直接发送给用户，也不要向用户解释你的步骤**
 5.make detailed plans in code environment before every act。
 
-6.事件生成环节，number of images: 1。
-
-让我们开始游戏吧，接下来请进行游戏初始化。
+让我们开始游戏吧，接下来请原封不动地发送开场白，并进行游戏初始化。
