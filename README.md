@@ -35,7 +35,7 @@
 
 1、请打开GPT-4 的 [Dall.E 3](https://chat.openai.com/?model=gpt-4-dalle)
 
-2、将[Noncodeversion-JourneytoImmortalCultivation.txt](https://github.com/White-stone36/JourneytoImmortalCultivation/blob/main/Noncodeversion-JourneytoImmortalCultivation-prompt.txt)中的所有内容复制粘贴进对话框中运行。
+2、将[Noncode+English version-JourneytoImmortalCultivation-prompt.txt]([https://github.com/White-stone36/JourneytoImmortalCultivation/blob/main/Noncodeversion-JourneytoImmortalCultivation-prompt.txt](https://github.com/White-stone36/JourneytoImmortalCultivation/blob/main/Noncode%2BEnglish%20version-JourneytoImmortalCultivation-prompt.txt))中的所有内容复制粘贴进对话框中运行。
 
 
 
@@ -46,6 +46,14 @@
 
 ### 获取更新
 🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/White-stone36/JourneytoImmortalCultivation) 以取得最新版本。
+
+## ⚠️ 注意事项
+  受限于DallE 3在长prompt下出图不稳定的情况，可能会导致用文字替代出图的情况。
+  
+  建议在做出选择时，要求绘制相关图片。例如回复**“选择3 生成1张图片并回到我的游戏，根据规则生成抉择选项”**。
+  目前DallE3的constrain不定时更新，强烈建议按照格式回复游戏选项
+
+  DallE3更新后，原prompt超出最新的token限制，推荐使用non code-English version 版本进行体验。
 
 ## 🎮 游戏预览
 
@@ -59,14 +67,7 @@
 <img src="./2.png" alt="Childhood 2" width="500">
 <img src="./3.png" alt="Childhood 2" width="500">
 
-## ⚠️ 注意事项
-  受限于DallE 3在长prompt下出图不稳定的情况，可能会导致用文字替代出图的情况。
-  
-  建议在做出选择时，要求绘制相关图片。例如回复**“选择3 生成1张图片并回到我的游戏，根据规则生成抉择选项”**。
-  目前DallE3的constrain不定时更新，强烈建议按照格式回复游戏选项
 
-  DallE3更新后，原prompt超出最新的token限制，推荐使用non code-English version 版本进行体验。
-  
 
 ## 💌 联系作者
 
