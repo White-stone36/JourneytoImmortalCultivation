@@ -18,7 +18,7 @@
 游戏内容由顶尖人工智能 GPT4 实时生成，让你体验到修仙路上的艰难与喜悦。。
 
 - **项目名称**: 修真之旅 JourneytoImmortalCultivation
-- **版本**: 0.1 (updated at 20231018 )
+- **版本**: 0.2 (updated at 20231102 )
 - **核心驱动**: GPT-4 Dall.E 3
 - **作者**: [白石](https://m.okjike.com/users/0fdd6fe1-44db-45b2-827b-2c3064094af9?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNjQ3ZTdmMjE0YmQ2NjJlODZhMDI0NDJjIn0%3D&utm_source=user_card)
 
@@ -62,10 +62,11 @@
 ## ⚠️ 注意事项
   受限于DallE 3在长prompt下出图不稳定的情况，可能会导致用文字替代出图的情况。
   
-  建议在做出选择时，要求绘制相关图片。例如回复**“选择3 展示属性并绘制场景”**。
-  该问题已向OpenAI反馈，有后续进展会更新prompt
+  建议在做出选择时，要求绘制相关图片。例如回复**“选择3 生成1张图片并回到我的游戏，根据规则生成抉择选项”**。
+  目前DallE3的constrain不定时更新，强烈建议按照格式回复游戏选项
 
-  推荐使用non code version 版本进行体验。
+  DallE3更新后，原prompt超出最新的token限制，推荐使用non code-English version 版本进行体验。
+  
 
 ## 💌 联系作者
 
