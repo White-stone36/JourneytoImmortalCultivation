@@ -13,19 +13,19 @@
 
 ## 🌈 项目概览
 
-该项目是一个使用GPT-4  Dalle.E 3 功能驱动的交互式冒险游戏。
+该项目是一个使用GPT-4  Dall.E 3 功能驱动的交互式冒险游戏。
 
 游戏内容由顶尖人工智能 GPT4 实时生成，让你体验到修仙路上的艰难与喜悦。。
 
 - **项目名称**: 修真之旅 JourneytoImmortalCultivation
 - **版本**: 0.1 (updated at 20231018 )
-- **核心驱动**: GPT-4 Dalle.E 3
+- **核心驱动**: GPT-4 Dall.E 3
 - **作者**: [白石](https://m.okjike.com/users/0fdd6fe1-44db-45b2-827b-2c3064094af9?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNjQ3ZTdmMjE0YmQ2NjJlODZhMDI0NDJjIn0%3D&utm_source=user_card)
 
 
 ## 📥 运行游戏
 
-1、请打开GPT-4 的 [Dalle.E 3](https://chat.openai.com/?model=gpt-4-dalle)
+1、请打开GPT-4 的 [Dall.E 3](https://chat.openai.com/?model=gpt-4-dalle)
 
 2、将[Noncodeversion-JourneytoImmortalCultivation.txt](https://github.com/White-stone36/JourneytoImmortalCultivation/blob/main/Noncodeversion-JourneytoImmortalCultivation-prompt.txt)中的所有内容复制粘贴进对话框中运行。
 
@@ -34,7 +34,7 @@
 
 ### 前置条件
 
-⚠️ **请务必开启 GPT-4 的 Dalle.E 3功能，否则本游戏无法正常运行。目前该功能仅向ChatGPT Plus用户开放。**
+⚠️ **请务必开启 GPT-4 的 Dall.E 3功能，否则本游戏无法正常运行。目前该功能仅向ChatGPT Plus用户开放。**
 
 ###获取更新
 🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/White-stone36/JourneytoImmortalCultivation) 以取得最新版本。
